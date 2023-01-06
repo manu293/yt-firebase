@@ -1,9 +1,4 @@
-//
-//  yt_firebaseTests.swift
-//  yt-firebaseTests
-//
-//  Created by Propertyloop02 on 06/01/23.
-//
+// imports
 
 import XCTest
 @testable import yt_firebase

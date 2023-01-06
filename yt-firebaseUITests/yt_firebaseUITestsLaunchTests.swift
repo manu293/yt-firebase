@@ -1,9 +1,4 @@
-//
-//  yt_firebaseUITestsLaunchTests.swift
-//  yt-firebaseUITests
-//
-//  Created by Propertyloop02 on 06/01/23.
-//
+// imports
 
 import XCTest
 
